@@ -1,0 +1,5 @@
+{
+  "LuisAuthoringKey": "<<Your Authoring Key a.k.a. Starter Key>>",
+  "LuisAuthoringUrl": "https://<<Your Authoring Region>>.api.cognitive.microsoft.com/luis/api/v2.0/apps/",
+  "LuisEndpointKey": "<< Your Subscription Key"
+}
